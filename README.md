@@ -6,6 +6,14 @@
 
 ---
 
+## About
+
+I'm an epidemiologist with experience analyzing clinical and population-based health data.
+
+My research focuses on mental health, chronic pain, and substance use, with experience in longitudinal and observational study designs. My quantitative work includes `multiple imputation`, `regression modelling`, `multilevel modelling`, `latent profile analysis`, and `network analysis`.
+
+---
+
 ## Highlights
 
 - [**Depression Chronicity**](https://doi.org/10.1016/j.jad.2025.120079) — *Journal of Affective Disorders* (2025)
@@ -16,11 +24,8 @@
 
 ---
 
-## Methods
+## Skills
 
-`R` · `SAS` · `Stata` · `BLIMP3` · `Multiple Imputation` · `Regression` · `Multilevel Modelling` · `Longitudinal Analysis` · `Latent Profile Analysis` · `Network Analysis`
+**Software:** `R` · `BLIMP3`  · `Stata`
 
-### Research Skills 
-
-`Dataset Management` · `Data Cleaning & Preparation` · `Statistical Analysis Planning` · `Data Visualization` · `Scientific Writing` · `Manuscript Development` · `Interdisciplinary Collaboration`
-
+**Research:** `Dataset Management` · `Data Cleaning & Preparation` · `Statistical Analysis Planning` · `Data Visualization` · `Scientific Writing` · `Manuscript Development`
